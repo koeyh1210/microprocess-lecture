@@ -6,4 +6,5 @@
   4. 미니게임기 - 조이스틱과 버튼으로 조작하는 미니게임기
   5. 스마트 가방
 
-###2. 
+###2. 자료조사
+Blynk 아두이노 Iot플랫폼 http://www.androidappsfree.me/play/video/id_sfxXBIyWRgU
