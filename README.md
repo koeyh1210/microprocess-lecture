@@ -16,8 +16,13 @@
 #### 기능 
   1. 원하는 시간에 원하는 양만큼 사료, 물 급여
   2. 목소리를 녹음할 수 있는 녹음기능
+  3. 네트워크 연동
 
 ####필요 모듈
+1. 서보 모터
+2. 레코더, 스피커 모듈 (http://mechasolution.com/shop/goods/goods_view.php?goodsno=8515&category=049027)
+3. WiFi Shield
+
 
 ###2. 자료조사
 Blynk 아두이노 Iot플랫폼 http://www.androidappsfree.me/play/video/id_sfxXBIyWRgU
